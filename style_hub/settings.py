@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['102.135.173.110','3.27.181.62']
+ALLOWED_HOSTS = ['102.135.173.110','3.27.181.62','139.59.131.63']
 CORS_ORIGIN_ALLOW_ALL = True
 
 
